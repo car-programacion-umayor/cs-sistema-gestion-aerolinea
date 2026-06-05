@@ -1,4 +1,8 @@
-# Sistema de Gestión de Reservas Aéreas - Domestik
+# Sistema de Gestión de Reservas Aéreas
+
+**Asignatura:** Programación en C# (`cs-`)
+
+---
 
 Aplicación de escritorio desarrollada en C# con Windows Forms para la administración centralizada de operaciones aerocomerciales, integrando persistencia relacional en un servidor MySQL para el procesamiento seguro de vuelos, pasajeros y el control transaccional de reservas en tiempo real.
 
