@@ -6,6 +6,13 @@
 
 Aplicación de escritorio desarrollada en C# con Windows Forms para la administración centralizada de operaciones aerocomerciales, integrando persistencia relacional en un servidor MySQL para el procesamiento seguro de vuelos, pasajeros y el control transaccional de reservas en tiempo real.
 
+## Credenciales de Acceso
+
+Para ejecutar la aplicación localmente e interactuar con los flujos de autenticación del sistema, utilice los siguientes registros preconfigurados en el ambiente de desarrollo:
+
+* **Usuario:** admin
+* **Contraseña:** 1234
+  
 ## Arquitectura del Sistema
 
 El sistema implementa una arquitectura multicapa desacoplada que asegura el aislamiento de la lógica de negocio, el cumplimiento de políticas comerciales y la consistencia de los datos persistidos:
